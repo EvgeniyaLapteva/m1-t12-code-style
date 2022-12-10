@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DepositCalculator {
+public class DepositCalculator { //comment
 
     public static void main(String[] args) {
         new DepositCalculator().printMenu();
